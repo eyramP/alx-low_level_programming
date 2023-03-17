@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char alphabets[52] = "abcdefghijklmnopqrstuvwxyz";
+	char alphabets[27] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 52; i++)
